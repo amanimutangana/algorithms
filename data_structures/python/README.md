@@ -29,12 +29,10 @@ To run the tests in this repository, you need to follow these steps:
     ```
 
 3. **Running the Tests**:
-    Once the dependencies are installed, run the tests using `pytest` with the following command:
+    Once the dependencies are installed, run the tests using `pytest` with the following command(make sure you are in the correct directory):
     ```bash
-    PYTHONPATH=. pytest
+    pytest
     ```
-
-   This command sets the `PYTHONPATH` to the current directory and runs the tests, verifying the data structure implementations.
 
 ## Requirements
 
