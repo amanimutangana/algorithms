@@ -18,7 +18,7 @@ To run the tests in this repository, you need to follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/data-structures.git
+    git@github.com:amanimutangana/algorithms.git
     cd data-structures/python
     ```
 
@@ -33,15 +33,6 @@ To run the tests in this repository, you need to follow these steps:
     ```bash
     pytest
     ```
-
-## Requirements
-
-The requirements for running this project can be found in the `requirements.txt` file. To install them, run the following command:
-
-```bash
-pip install -r requirements.txt
-
----
 
 ## Future Plans
 
